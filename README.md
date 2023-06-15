@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text="choi-ik"%20Profile&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text=Welcome!&desc=to%20🧑🏻‍💻%20Choi-ik%20Profile&fontSize=50%&fontColor=ffffff )
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoi-ik&count_bg=%2314B0DB&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%23F4EFEF&title=visitant&edgeflat=false)](https://hits.seeyoufarm.com)
   

@@ -1,6 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=75BDE0&height=250&section=header&text=Welcome!&desc=to%20🧑🏻‍💻%20Choi-ik%20Profile&fontSize=50%&fontColor=ffffff )
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-ik&show_icons=true&theme=tokyonight)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chldlr98)](https://solved.ac/chldlr98)
+
 ### 🙇‍♂️Introduce
 안녕하세요, 신입 프론트엔드 개발자 최익입니다.</br>
 > 2023.09 ~ 2024.03 프로그래머스 프론트엔드 데브코스 

@@ -1,5 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-ik&show_icons=true&theme=tokyonight)
-
 ### 🙇‍♂️Introduce
 안녕하세요, 신입 프론트엔드 개발자 최익입니다.</br>
 > 2023.09 ~ 2024.03 프로그래머스 프론트엔드 데브코스 

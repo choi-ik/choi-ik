@@ -1,6 +1,7 @@
 ### 🙇‍♂️Introduce
-안녕하세요, 신입 프론트엔드 개발자 최익입니다.</br>
-> 2023.09 ~ 2024.03 프로그래머스 프론트엔드 데브코스 
+안녕하세요, 신입 프론트엔드 개발자 최익입니다.
+<p></p>
+🧑‍💻 [2023.09 ~ 2024.03] 프로그래머스 프론트엔드 데브코스 
 <div>
   <h3>📌 SKill</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black"/>

@@ -11,8 +11,6 @@
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=black"/>
-<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=reactquery&logoColor=black"/>
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=black"/>
 
 <h4>🛠️ etc</h4>
 <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"/>

@@ -8,7 +8,7 @@
 <h3>🛠️ Skill</h3>
 <div><div/>
       
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind,tanstack-query)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,tailwind&theme=dark)](https://skillicons.dev)
 <!-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=black"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>
@@ -16,7 +16,7 @@
 
 <h3>🛠️ etc</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,figma&theme=dark)](https://skillicons.dev)
 <!-- <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=black"/>
 <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=black"/> -->
 

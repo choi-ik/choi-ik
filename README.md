@@ -19,5 +19,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=git,figma&theme=dark)](https://skillicons.dev)
 
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chldlr98)](https://solved.ac/chldlr98)
       

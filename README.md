@@ -3,4 +3,4 @@
 
 <h3>Skill</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,git&theme=dark)](https://skillicons.dev)

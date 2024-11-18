@@ -35,7 +35,7 @@ const parser = new Parser({
     console.log(`추가될 제목: ${title}`);
     console.log(`추가될 링크: ${link}`);
 
-    text += `${i + 1}. <a href=${link}>${title}</a></br> \n`;
+    text += `${i + 1}. <a href=${link}>${title}</a></br>`;
   }
 
   // README.md 파일 작성

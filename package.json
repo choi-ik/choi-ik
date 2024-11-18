@@ -1,0 +1,24 @@
+{
+  "name": "choi-ik",
+  "version": "1.0.0",
+  "description": "프로그래머스 프론트엔드 데브코스 5기",
+  "main": "readmeUpdate.js",
+  "scripts": {
+    "start": "node readmeUpdate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choi-ik/choi-ik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choi-ik/choi-ik/issues"
+  },
+  "homepage": "https://github.com/choi-ik/choi-ik#readme",
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "rss-parser": "^3.13.0"
+  }
+}

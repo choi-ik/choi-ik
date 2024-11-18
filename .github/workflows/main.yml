@@ -26,5 +26,5 @@ jobs:
           git add .
           git config --local user.email ci980704@naver.com
           git config --local user.name choi-ik
-          git commit -m "Update README.md"
+          git commit -m "Tistory 최근 발행글 업데이트"
           git push

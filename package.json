@@ -4,7 +4,7 @@
   "description": "프로그래머스 프론트엔드 데브코스 5기",
   "main": "readmeUpdate.js",
   "scripts": {
-    "start": "node readmeUpdate.js"
+    "start": "node readMeUpdate.js"
   },
   "repository": {
     "type": "git",

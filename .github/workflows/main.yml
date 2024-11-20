@@ -24,7 +24,7 @@ jobs:
         run: |
           git pull
           git add .
-          git config --local user.email ci980704@naver.com
-          git config --local user.name choi-ik
-          git commit -m "Tistory 최근 발행글 업데이트"
-          git push
+          git config --local user.email "ci980704@naver.com"
+          git config --local user.name "choi-ik"
+          git commit -m "Tistory 최근 발행글 업데이트" || echo "No changes to commit"
+          git push || echo "Nothing to push"

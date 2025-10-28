@@ -8,8 +8,11 @@ dayjs.extend(timezone);
 dayjs.tz.setDefault("Asia/Seoul");
 
 let text = `
-### Experience
-프로그래머스 프론트엔드 데브코스 5기
+### Work Experience
+Business-Canvas(Re:catch) - 2025.04 ~
+
+### Other Experience
+프로그래머스 프론트엔드 데브코스 5기 - 2023.09 ~ 2024.03
 
 <h3>Skill</h3>
 
